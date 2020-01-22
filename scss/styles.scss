@@ -11,6 +11,10 @@
     font-size: 1rem;
   }
 
+  h4 {
+    font-size: .5rem
+  }
+
   strong {
     color: #82f2a0;
   }
@@ -22,5 +26,9 @@
 
   .green {
     color: #82f2a0;
+  }
+
+  .gray {
+    color: rgba(0, 0, 0, 0.99)
   }
 }
