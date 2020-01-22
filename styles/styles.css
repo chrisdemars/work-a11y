@@ -1,5 +1,3 @@
-/*** Typography ***/
-
 .reveal h1 {
   font-size: 5rem;
 }
@@ -11,3 +9,17 @@
 .reveal h3 {
   font-size: 1rem;
 }
+
+.reveal strong {
+  color: #82f2a0;
+}
+
+.reveal img {
+  width: 600px;
+  height: auto;
+}
+
+.reveal .green {
+  color: #82f2a0;
+}
+/*# sourceMappingURL=styles.css.map */
