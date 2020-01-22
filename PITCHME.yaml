@@ -1,2 +1,25 @@
 published: true
-# theme-override: assets/styles.css
+theme-override: styles/styles.css
+
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
+theme: template
+theme-background: ["#323437"]
+theme-headline: ["Raleway", "#82F2A0", "none"]
+theme-byline: ["Raleway", "#FFFFFF", "none"]
+theme-text: ["Ubuntu", "#FFFFFF", "none"]
+theme-links: ["#5289F7", "#5254F7"]
+theme-code: ["Source Code Pro", "100", "120"]
+highlight: hybrid
+theme-controls: ["#C0C0C0"]
+theme-margins: ["0", "15px"]
+layout: center
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
+
+code-line-numbers : true
+eager-loading : true
+transition: fade
+title: "Common Accessibility Pitfalls: Climbing out, when you fall in."
+remote-control: true
+theme-override : styles/styles.css
+published: false
+footnote : "chrisdemars.com   •   @saltnburnem"
