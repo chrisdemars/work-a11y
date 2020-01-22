@@ -21,6 +21,6 @@ transition: fade
 title: "Common Accessibility Pitfalls: Climbing out, when you fall in."
 remote-control: true
 theme-override : styles/styles.css
-published: false
+published: true
 highlight : atom-one-dark
 footnote : "chrisdemars.com   •   https://gitpitch.com/tuftandneedle/digital-mastery-a11y"
