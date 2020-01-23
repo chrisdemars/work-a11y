@@ -208,7 +208,7 @@ This should be hit no matter what. If you are doing everything in your power as 
 # What is ARIA?
 
 @snap[fragment]
-@quote[A set of attributes that define ways to make web content and web applicationsmore accessible to people with disabilities.](MDN (Mozilla Developer Network))
+@quote[A set of attributes that define ways to make web content and web applications more accessible to people with disabilities.](MDN (Mozilla Developer Network))
 @snapend
 
 Note:
