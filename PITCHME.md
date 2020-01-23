@@ -20,6 +20,12 @@
 
 ---
 
+# Across the World
+
+@quote[Roughly 15% of the population has some type of disability.](World Health Organization)
+
+---
+
 # Why?
 
 @css[text-white fragment](Why should we care about accessibility Chris?)
@@ -37,7 +43,7 @@
 
 ---
 
-# Problems
+# Problems & Solutions
 
 ---
 
