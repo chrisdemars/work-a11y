@@ -225,3 +225,66 @@ Note:
 @fa[twitter fa-2x white]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[facebook-square fa-2x white]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 @fa[linkedin fa-2x white]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 @fa[instagram fa-2x white]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+---
+
+@snap[north-west span-55]
+
+#### Bad Practice
+
+@snap[east span-50 green]
+
+ARIA Label Examples
+
+@snapend
+
+```html zoom-05
+<span>
+    <a href="#"><i class="fab fa-3x fa-twitter"></i></a>
+</span>
+<span>
+    <a href="#"><i class="fab fa-3x fa-instagram"></i></a>
+</span>
+<span>
+    <a href="#"><i class="fab fa-3x fa-facebook-f"></i></a>
+</span>
+```
+
+@snapend
+
+@snap[south-west span-55]
+
+#### Best Practice
+
+```html zoom-04
+<!-- heading level needs to be informed by document structure, this is purely an example -->
+<h4>Follow us on social media</h4>
+<ul>
+  <li>
+    <a href="#" target="_blank">
+      <i aria-label="Twitter" class="fa fa-twitter"></i>
+      </a>
+  </li>
+  <li>
+    <a href="#" target="_blank">
+      <i aria-label="Facebook" class="fa fa-facebook"></i>
+    </a>
+  </li>
+  <li>
+    <a href="#" target="_blank">
+      <i aria-label="LinkedIn" class="fa fa-linkedin"></i>
+    </a>
+  </li>
+  <li>
+    <a href="#" target="_blank">
+      <i aria-label="Instagram" class="fa fa-instagram"></i>
+    </a>
+  </li>
+</ul>
+```
+
+---
+
+# Modals
+
+![Modal](modal-example.png)
