@@ -288,3 +288,29 @@ ARIA Label Examples
 # Modals
 
 ![Modal](modal-example.png)
+
+---
+
+@snap[north-west span-55]
+
+#### Bad Practice
+
+@snap[east span-50 green]
+
+ARIA Label Examples
+
+@snapend
+
+```html zoom-09
+<button>X</button>
+```
+
+@snapend
+
+@snap[south-west span-55]
+
+#### Best Practice
+
+```html zoom-09
+<button aria-label="Close">X</button>
+```
