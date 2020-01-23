@@ -23,4 +23,4 @@ remote-control: true
 theme-override : styles/styles.css
 published: true
 highlight : atom-one-dark
-footnote : "chrisdemars.com   •   https://gitpitch.com/tuftandneedle/digital-mastery-a11y"
+footnote : "https://gitpitch.com/chrisdemars/work-a11y#/"
