@@ -2,6 +2,12 @@
 
 ---
 
+# Important Video
+
+![Watch](https://www.youtube.com/embed/XB4cjbYywqg)
+
+---
+
 # What is Accessibility?
 
 ---
@@ -198,3 +204,18 @@ This should be hit no matter what. If you are doing everything in your power as 
 @snap[fragment]
 @quote[A set of attributes that define ways to make web content and web applicationsmore accessible to people with disabilities.](MDN (Mozilla Developer Network))
 @snapend
+
+Note:
+- It supplements HTML so that interactions and widgets commonly used in applications can be passed to assistive technologies when there is not otherwise a mechanism.
+
+---
+
+# Common inaccessible patterns
+
+---
+
+# Social Media Icons
+
+@fa[twitter fa-2x white]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@fa[facebook-square fa-2x white]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[linkedin fa-2x white]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+@fa[instagram fa-2x white]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
